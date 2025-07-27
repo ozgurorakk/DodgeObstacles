@@ -13,6 +13,8 @@
 Here are some gameplay screenshots:
 
 ![Screenshot 1](https://imgur.com/a/qBN2IVH)
+![Screenshot 1](https://github.com/ozgurorakk/DodgeObstacles/screenshots/screenshot1.png
+)
 ![Screenshot 2](https://imgur.com/a/UHgMn1Q)
 ![Screenshot 3](https://imgur.com/a/KOkeqfR)
 ![Screenshot 4](https://imgur.com/a/omvcnsX)
