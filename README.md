@@ -12,11 +12,11 @@
 
 Here are some gameplay screenshots:
 
-![Screenshot 1](https://i.imgur.com/a/qBN2IVH.png)
-![Screenshot 2](https://i.imgur.com/a/UHgMn1Q.png)
-![Screenshot 3](https://i.imgur.com/a/KOkeqfR.png)
-![Screenshot 4](https://i.imgur.com/a/omvcnsX.png)
-![Screenshot 5](https://i.imgur.com/a/xxRlH5y.png)
+![Screenshot 1](https://i.imgur.com/qBN2IVH.png)
+![Screenshot 2](https://i.imgur.com/UHgMn1Q.png)
+![Screenshot 3](https://i.imgur.com/KOkeqfR.png)
+![Screenshot 4](https://i.imgur.com/omvcnsX.png)
+![Screenshot 5](https://i.imgur.com/xxRlH5y.png)
 
 
 ## 🔧 Built With
