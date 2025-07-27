@@ -8,15 +8,6 @@
 - Obstacles spawn randomly and increase in speed over time.
 - The goal is to survive as long as possible.
 
-## Screenshots
-
-Here are some gameplay screenshots:
-
-![Screenshot 1](https://i.imgur.com/wSIcM8N.png)
-![Screenshot 2](https://i.imgur.com/CrQuhNF.png)
-![Screenshot 3](https://i.imgur.com/VvTO1QS.png)
-
-
 ## 🔧 Built With
 - **Unity** (2022 or newer)
 - **C#**
@@ -35,3 +26,11 @@ To run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/dodge-obstacles.git
+
+## 📸 Screenshots
+
+Here are some gameplay screenshots:
+
+![Screenshot 1](https://i.imgur.com/wSIcM8N.png)
+![Screenshot 2](https://i.imgur.com/CrQuhNF.png)
+![Screenshot 3](https://i.imgur.com/VvTO1QS.png)
