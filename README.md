@@ -13,10 +13,8 @@
 Here are some gameplay screenshots:
 
 ![Screenshot 1](https://i.imgur.com/wSIcM8N.png)
-![Screenshot 2](https://i.imgur.com/UHgMn1Q.png)
-![Screenshot 3](https://i.imgur.com/KOkeqfR.png)
-![Screenshot 4](https://i.imgur.com/omvcnsX.png)
-![Screenshot 5](https://i.imgur.com/xxRlH5y.png)
+![Screenshot 2](https://i.imgur.com/CrQuhNF.png)
+![Screenshot 3](https://i.imgur.com/VvTO1QS.png)
 
 
 ## 🔧 Built With
