@@ -12,13 +12,11 @@
 
 Here are some gameplay screenshots:
 
-![Screenshot 1](https://imgur.com/a/qBN2IVH)
-![Screenshot 1](https://github.com/ozgurorakk/DodgeObstacles7/DodgeObstacles/screenshots/screenshot1.png
-)
-![Screenshot 2](https://imgur.com/a/UHgMn1Q)
-![Screenshot 3](https://imgur.com/a/KOkeqfR)
-![Screenshot 4](https://imgur.com/a/omvcnsX)
-![Screenshot 5](https://imgur.com/a/xxRlH5y)
+![Screenshot 1](https://i.imgur.com/a/qBN2IVH.png)
+![Screenshot 2](https://i.imgur.com/a/UHgMn1Q.png)
+![Screenshot 3](https://i.imgur.com/a/KOkeqfR.png)
+![Screenshot 4](https://i.imgur.com/a/omvcnsX.png)
+![Screenshot 5](https://i.imgur.com/a/xxRlH5y.png)
 
 
 ## 🔧 Built With
